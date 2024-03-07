@@ -1,5 +1,22 @@
 /*
 ---01 TYPOGRAPHY SYSTEM
+-Font weights
+Default:400
+Medium:500
+Semi-bold: 600
+Bold: 700
+
+- Line heights
+Default: 1
+Small: 1.05
+Medium: 1.2
+Paragraph default: 1.6
+
+- Letter spacing
+0.5px
+0.75px
+
+
 ---02 COLORS
 
 
@@ -73,6 +90,7 @@ body {
 .heading-secondary {
   font-size: 4.4rem;
   line-height: 1.2;
+  margin-bottom: 9.6rem;
 }
 
 .subheading {
